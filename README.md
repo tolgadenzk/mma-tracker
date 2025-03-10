@@ -16,7 +16,7 @@
 '```sh' 
 "pip install -r requirements.txt" 
 '```' 
-"3. Veritabann oluŸturun:" 
+"3. Veritabanı oluşturun:" 
 '```sh' 
 "python manage.py migrate" 
 '```' 
