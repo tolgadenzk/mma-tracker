@@ -1,6 +1,6 @@
-# mma-tracker"## MMA Antrenman Takip Uygulamas" 
+# mma-tracker"## MMA Antrenman Takip Uygulaması" 
 "" 
-"Bu proje, Django kullanlarak geliŸtirilmiŸ bir MMA antrenman takip uygulamasdr. Kullanclar antrenmanlarn ekleyebilir, düzenleyebilir ve silebilir. Ayrıca istatistiksel verileri görüntüleyebilirler." 
+"Bu proje, Django kullanarak geliştirilmiş bir MMA antrenman takip uygulamasıdır. Kullanıcılar antrenmanlarını ekleyebilir, düzenleyebilir ve silebilir. Ayrıca istatistiksel verileri görüntüleyebilirler." 
 "" 
 "## Kullanlan Teknolojiler" 
 "- **Python (Django Framework)
