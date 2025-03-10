@@ -1,0 +1,52 @@
+body {
+    background: url('https://www.transparenttextures.com/patterns/black-thread-light.png');
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.training-card {
+    background: rgba(0, 0, 0, 0.8); /* Hafif saydam siyah */
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1); /* Hafif beyaz gölge */
+    transition: transform 0.2s ease-in-out;
+}
+
+.training-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 15px rgba(255, 255, 255, 0.2); /* Hover efekti */
+}
+.btn {
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    transition: background 0.3s ease-in-out, transform 0.2s;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+body {
+    background: linear-gradient(135deg, #121212, #1c1c1c);
+    color: white;
+}
+.navbar {
+    background: rgba(0, 0, 0, 0.85);
+    padding: 15px;
+    border-bottom: 2px solid #ffcc00; /* Alt çizgi ekleyerek ayırt edici bir görünüm */
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar a:hover {
+    color: #ffcc00; /* Sarıya dönüşen hover efekti */
+}
