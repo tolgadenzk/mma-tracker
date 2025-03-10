@@ -2,7 +2,7 @@
 "" 
 "Bu proje, Django kullanarak geliştirilmiş bir MMA antrenman takip uygulamasıdır. Kullanıcılar antrenmanlarını ekleyebilir, düzenleyebilir ve silebilir. Ayrıca istatistiksel verileri görüntüleyebilirler." 
 "" 
-"## Kullanlan Teknolojiler" 
+"## Kullanılan Teknolojiler" 
 "- **Python (Django Framework)
 "- **HTML, CSS (Bootstrap ile)**" 
 "- **SQLite (Varsayılan veritabanı)
