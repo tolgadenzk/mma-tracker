@@ -1,26 +1,26 @@
-# mma-tracker"## MMA Antrenman Takip Uygulamas" 
+# mma-tracker"## MMA Antrenman Takip UygulamasÂ" 
 "" 
-"Bu proje, Django kullanlarak geliŸtirilmiŸ bir MMA antrenman takip uygulamasdr. Kullanclar antrenmanlarn ekleyebilir, dzenleyebilir ve silebilir. Ayrca istatistiksel verileri g”rntleyebilirler." 
+"Bu proje, Django kullanÂlarak geliÅ¸tirilmiÅ¸ bir MMA antrenman takip uygulamasÂdÂr. KullanÂcÂlar antrenmanlarÂnÂ ekleyebilir, dÃ¼zenleyebilir ve silebilir. AyrÄ±ca istatistiksel verileri gÃ¶rÃ¼ntÃ¼leyebilirler." 
 "" 
-"## Kullanlan Teknolojiler" 
-"- **Python (Django Framework)**" 
+"## KullanÂlan Teknolojiler" 
+"- **Python (Django Framework)
 "- **HTML, CSS (Bootstrap ile)**" 
-"- **SQLite (Varsaylan veritaban)**" 
+"- **SQLite (VarsayÄ±lan veritabanÄ±)
 "" 
 "## Kurulum" 
-"1. Projeyi klonlayn:" 
+"1. Projeyi klonlayan:" 
 '```sh' 
 "git clone https://github.com/tolgadenzk/mma-tracker.git" 
 '```' 
-"2. Gerekli ba§mllklar ykleyin:" 
+"2. Gereklileri yÃ¼kleyin:" 
 '```sh' 
 "pip install -r requirements.txt" 
 '```' 
-"3. Veritabann oluŸturun:" 
+"3. VeritabanÂnÂ oluÅ¸turun:" 
 '```sh' 
 "python manage.py migrate" 
 '```' 
-"4. Sunucuyu baŸlatn:" 
+"4. Sunucuyu baglayÄ±n:" 
 '```sh' 
 "python manage.py runserver" 
 '```' 
